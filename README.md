@@ -8,7 +8,6 @@ nlp-language-detection-system/
 ├── language.csv                # Dataset with text samples and language labels
 ├── nlp_language_detector.py    # Main Python script
 ├── README.md                   # Project documentation
-
 ```
 
 ---
@@ -36,7 +35,7 @@ Text,Language
 ### 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/nlp-language-detection-system.git](https://github.com/Nayann23/NLP-BASED-MULTILINGUAL-LANGUAGE-DETECTION-SYSTEM.git)
+git clone https://github.com/Nayann23/NLP-BASED-MULTILINGUAL-LANGUAGE-DETECTION-SYSTEM.git
 cd nlp-language-detection-system
 ```
 
@@ -92,4 +91,3 @@ Enter Text To Detect Language: Stop
 - Improve model with deep learning (e.g., LSTM, BERT)
 - Build a web interface using Flask or Streamlit
 - Deploy as an API for integration
-
