@@ -36,7 +36,7 @@ Text,Language
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nlp-language-detection-system.git
+git clone [https://github.com/yourusername/nlp-language-detection-system.git](https://github.com/Nayann23/NLP-BASED-MULTILINGUAL-LANGUAGE-DETECTION-SYSTEM.git)
 cd nlp-language-detection-system
 ```
 
