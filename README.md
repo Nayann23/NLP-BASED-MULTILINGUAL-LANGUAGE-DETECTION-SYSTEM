@@ -6,7 +6,7 @@
 nlp-language-detection-system/
 │
 ├── language.csv                # Dataset with text samples and language labels
-├── nlp_language_detector.py    # Main Python script
+├── LANGUAGE-DETECTION.ipynb    # Main Jupyter Notebook
 ├── README.md                   # Project documentation
 ```
 
@@ -45,11 +45,19 @@ cd nlp-language-detection-system
 pip install numpy pandas scikit-learn
 ```
 
-### 3. Run the script:
+### 3. Open and run the notebook:
+
+You can open the notebook using Jupyter or VS Code:
 
 ```bash
-python nlp_language_detector.py
+jupyter notebook LANGUAGE-DETECTION.ipynb
 ```
+
+Or in VS Code:
+
+- Open the project folder
+- Click on `LANGUAGE-DETECTION.ipynb`
+- Run cells step by step
 
 ---
 
